@@ -36,9 +36,6 @@ Aquí hay algunas de las tecnologías con las que trabajo:
 <!-- Sección de Proyectos Destacados -->
 ## 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto](Enlace_al_Proyecto)**: Breve descripción del proyecto.
-- **[Nombre del Proyecto](Enlace_al_Proyecto)**: Breve descripción del proyecto.
-- **[Nombre del Proyecto](Enlace_al_Proyecto)**: Breve descripción del proyecto.
 
 <!-- Sección de Estadísticas -->
 ## 📊 Estadísticas de GitHub
