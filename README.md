@@ -22,7 +22,6 @@
 
 Aquí hay algunas de las tecnologías con las que trabajo:
 
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) Visual Studio Code
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
 ![Git](https://img.icons8.com/color/48/000000/git.png) Git
