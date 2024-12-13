@@ -35,13 +35,13 @@ Aquí algunas de las tecnologías con las que trabajo:
 <!-- Sección de Proyectos Destacados -->
 ## 🚀 Proyectos Destacados
 
-- [Gestión de Órdenes de Producción y Monitoreo de Líneas](link_al_repositorio)
+- Private -
   Desarrollo de una aplicación para la gestión eficiente de órdenes de producción y monitoreo en tiempo real de líneas de producción.
 
 - [Aplicación para Estilos de Vida Saludable](link_al_repositorio)
   Desarrollo de una aplicación para promover estilos de vida saludable, incluyendo asistencia personalizada mediante un RAG medicalizado, desplegado en Azure y Docker.
 
-- [Implementación de Modelos en SQL y WebSockets](link_al_repositorio)
+- Implementación de Modelos en SQL y WebSockets - [LeanKata](https://github.com/Elianarve/WebLeanKata.git)
   Configuración de modelos en SQL, integración de WebSockets con Dialogflow para un agente de IA, y pruebas automatizadas con Jest.
 
 <!-- Sección de Estadísticas -->
